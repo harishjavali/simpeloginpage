@@ -1,3 +1,3 @@
 # simpeloginpage
 Simple Static Login page used only[HTML and CSS].
-here is link(https://harishjavali.github.io/simpeloginpage/loginfiles/index.html)
+[editor on GitHub](https://harishjavali.github.io/simpeloginpage/loginfiles/index.html)
